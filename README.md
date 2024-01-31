@@ -1,11 +1,11 @@
 # IRC
 
-Projet Ecole 42: (en groupe)
+School Project 42: (in a group)
 
 Server : ```./ircser <port 6665-6669> <keyword>```                                                                                                                                                         
 Client : cd Client/ ```./sic -h <localhost> -p <port> [-n <nickname>] [-k <keyword>]```
 
-Recréer un tchat IRC [Internet Relay Chat : protocole TCP/IP de communication par message sur internet] avec les commandes de bases suivantes :
+Create an IRC chat [Internet Relay Chat : TCP/IP protocol for message communication on the Internet] with the following basic commands :
 
 **ALL USERS**
 - PASS password
@@ -47,8 +47,8 @@ Recréer un tchat IRC [Internet Relay Chat : protocole TCP/IP de communication p
 	- QUIT : Quit the server with or without a reason
 
 ## Protocole IRC
-- Le protocole IRC utilise un système de serveurs et de clients pour permettre aux utilisateurs de se connecter à des canaux de discussion en temps réel.
-- Les clients IRC peuvent se connecter à un serveur IRC en utilisant un nom d'utilisateur et un mot de passe. Les utilisateurs peuvent rejoindre des canaux de discussion ou discuter en privé avec d'autres utilisateurs connectés au même serveur.
-- Les commandes IRC sont utilisées pour exécuter des actions, telles que rejoindre un canal, quitter un canal, envoyer un message privé, etc.
-- Les canaux IRC sont des espaces de discussion en temps réel où les utilisateurs peuvent discuter en groupe.
-- Les opérateurs de canal IRC (ou "ops") sont des utilisateurs qui ont des privilèges spéciaux sur un canal, tels que l'expulsion d'autres utilisateurs ou la modification des paramètres du canal.
+- The IRC protocol uses a system of servers and clients to allow users to connect to chat channels in real time.
+- IRC clients can connect to an IRC server using a username and password. Users can join chat channels or chat privately with other users connected to the same server.
+- IRC commands are used to perform actions, such as joining a channel, leaving a channel, sending a private message, etc.
+- IRC channels are real-time chat rooms where users can chat in groups.
+- IRC channel operators (or "ops") are users who have special privileges on a channel, such as kicking out other users or changing channel settings.
