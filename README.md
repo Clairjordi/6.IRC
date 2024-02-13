@@ -1,6 +1,6 @@
 # IRC
 
-School Project 42: (in a group)
+(6/7) School Project 42: (in a group)
 
 Server : ```./ircser <port 6665-6669> <keyword>```                                                                                                                                                         
 Client : cd Client/ ```./sic -h <localhost> -p <port> [-n <nickname>] [-k <keyword>]```
