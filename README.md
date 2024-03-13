@@ -2,7 +2,7 @@
 
 (6/7) School Project 42: (in a group)
 
-Server : ```./ircser <port 6665-6669> <keyword>```                                                                                                                                                         
+Server : ```./ircserv <port 6665-6669> <keyword>```                                                                                                                                                         
 Client : cd Client/ ```./sic -h <localhost> -p <port> [-n <nickname>] [-k <keyword>]```
 
 Create an IRC chat [Internet Relay Chat : TCP/IP protocol for message communication on the Internet] with the following basic commands :
