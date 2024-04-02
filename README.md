@@ -53,3 +53,6 @@ Create an IRC chat [Internet Relay Chat : TCP/IP protocol for message communicat
 - IRC commands are used to perform actions, such as joining a channel, leaving a channel, sending a private message, etc.
 - IRC channels are real-time chat rooms where users can chat in groups.
 - IRC channel operators (or "ops") are users who have special privileges on a channel, such as kicking out other users or changing channel settings.
+  
+![img_IRC](https://github.com/Clairjordi/6.IRC/assets/88725985/007fc17b-ffd0-4a1d-9fd7-fe9df01653be)
+
