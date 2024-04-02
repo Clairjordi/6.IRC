@@ -3,8 +3,8 @@
 (6/7) School Project 42: (in a group)
 
 Server : ```./ircserv <port 6665-6669> <keyword>```                                                                                                                                                         
-Client : cd Client/ ```./sic -h <localhost> -p <port> [-n <nickname>] [-k <keyword>]```
-Important : for this client, put ":" before all commands
+Client : cd Client/ ```./sic -h <localhost> -p <port> [-n <nickname>] [-k <keyword>]```                                                                                                                                                                      
+*/!\ Important : for this client, put ":" before all commands*
 
 Create an IRC chat [Internet Relay Chat : TCP/IP protocol for message communication on the Internet] with the following basic commands :
 
