@@ -1,6 +1,6 @@
 # IRC
 
-(6/7) School Project 42: (in a group)
+(6/7) Common core school project 42 (in group) :
 
 Server : ```./ircserv <port 6665-6669> <keyword>```                                                                                                                                                         
 Client : cd Client/ ```./sic -h <localhost> -p <port> [-n <nickname>] [-k <keyword>]```                                                                                                                                                                      
